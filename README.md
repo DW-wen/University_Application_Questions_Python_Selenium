@@ -32,3 +32,5 @@
 
 1. 跳出紫色的字，代表程式出錯了。關掉重開，開啟 BUG 維修模式就好了。
 2. 如果還不好，那網站 <https://github.com/DW-wen/University_Application_Questions_Python_Selenium.git> 有原代碼，有註解，自己修，python  檔案
+
+## 創作者 : 114學年度板橋高中畢業生 文柏鈞
